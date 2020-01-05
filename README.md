@@ -1,0 +1,1 @@
+Generic idempotent configuration utility.
